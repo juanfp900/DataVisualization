@@ -12,7 +12,7 @@ import numpy as np
 class TorontoData:
 
     def organizeNeighbourhoodData(self):
-        dataFile = pd.read_csv('/Users/Juanp/Desktop/PythonProjects/DataVisualization/TorontoData/neighbourhood-profiles-2016.csv')
+        dataFile = pd.read_csv('neighbourhood-profiles-2016.csv')
         dataFile.drop(dataFile.columns[[0, 1, 3]],inplace=True, axis=1)
         dataFile.set_index('Topic',inplace=True) #set index before transponse.
         df = dataFile.T  #Transpose   
@@ -39,7 +39,7 @@ class TorontoData:
         
     
     def readShapeData(self):
-        shapeFile = '/Users/Juanp/Desktop/PythonProjects//DataVisualization/TorontoData/Neighbourhoods/Neighbourhoods.shp'
+        shapeFile = 'Neighbourhoods.shp'
         shape_df = gpd.read_file(shapeFile)
         
         shape_df['Neighbourhood'] = shape_df['FIELD_7'].str.replace(r"\(.*\)","") 
