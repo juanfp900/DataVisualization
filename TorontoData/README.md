@@ -5,11 +5,11 @@
 # Project Description
 
 This project was created by parsing through a csv file and an xlsx file that contains census data from 140 Toronto Neighbourhoods.
-The CSV file contains 2015 data while the xlsx file contains 2000, 2005, 2010 data. 
+The csv file contains 2015 data while the xlsx file contains 2000, 2005, 2010 data. 
 
 # How To Run?
 
-Libaries used within project include, Pandas, GeoPandas, Seaborn, Numpy. A full list of libraries will be included in the 
+Some of the libaries used within project include, Pandas, GeoPandas, Seaborn, NumPy. A full list of libraries will be included in the 
 requirements.txt file. To install these packages simply type the following commad in your respective directory. 
   
    **pip install -r requirements.txt**
