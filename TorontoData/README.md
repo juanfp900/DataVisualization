@@ -19,7 +19,8 @@ To run this project you will need to download the files within the TorontoData f
   - neighbourhood-profiles-2016.csv
   - neighbourhood-data-2001-2011.xlsx
   - Neighbourhoods.zip
-  - You may will also need access to Tableau Public as this project is best displayed in Tableau. 
+  - You will also need access to Tableau Public as this project is best displayed in Tableau. 
+    [link to Tabelau Public](https://public.tableau.com/en-us/s/)
   
   Note: It is also possible to display the map using the MatplotLib Python libray instead of Tableau but it will not show as well. 
   I included the code for this if needed. it will be commented out in the python file. 
