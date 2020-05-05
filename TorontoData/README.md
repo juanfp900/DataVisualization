@@ -19,11 +19,17 @@ To run this project you will need to download the files within the TorontoData f
   - neighbourhood-profiles-2016.csv
   - neighbourhood-data-2001-2011.xlsx
   - Neighbourhoods.zip
-  - You will also need access to Tableau Public as this project is best displayed in Tableau. 
+  - You will also need access to Tableau Public as this project is best displayed in Tableau. (It is free)
     [link to Tabelau Public](https://public.tableau.com/en-us/s/)
+    
+When you run the file "TorontoData.py". It should create a shape file called "TorontoIncomeData.shp" that you can then use to create a view using Tableau. To do this.
+   - Go to the blue menu on the left side of the start page. You should see "Connect" as the title to this menu.
+   - Click "Spatial File" under the Connect section of the menu. 
+   - Here you will be able to import the shape file that was just created
+   - Now your data is in Tableau.
   
-  Note: It is also possible to display the map using the MatplotLib Python libray instead of Tableau but it will not show as well. 
-  I included the code for this if needed. it will be commented out in the python file. 
+Note: It is also possible to display the map using the MatplotLib Python libray instead of Tableau but it will not show as well. 
+I included the code for this if needed. It will be commented out in the python file. 
   
 
   
