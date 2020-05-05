@@ -1,20 +1,23 @@
 # Visualize Toronto Median Income by Neighbourhood with Tableau
 
-[link to Tableau Project!] https://public.tableau.com/profile/juanp5926#!/vizhome/TorontoIncomeByNeighbourhood/Sheet8?publish=yes
+[link to Tableau Project!] (https://public.tableau.com/profile/juanp5926#!/vizhome/TorontoIncomeByNeighbourhood/Sheet8?publish=yes)
 
 # Project Description
 
 This project was created by parsing through a csv file and an xlsx file that contains census data from 140 Toronto Neighbourhoods.
 The CSV file contains 2015 data while the xlsx file contains 2000, 2005, 2010 data. 
 
+# How To Run?
+
 Libaries used within project include, Pandas, GeoPandas, Seaborn, Numpy. A full list of libraries will be included in the 
-requirements.txt file. To install all packages simply type the following commad in your respective directory. 
+requirements.txt file. To install these packages simply type the following commad in your respective directory. 
   
    **pip install -r requirements.txt**
 
-To run this project you will need to download the files within the TorontoData folder which include:
+To run this project you will need to download the files within the TorontoData folder:
+  - TorontoData.py
   - neighbourhood-profiles-2016.csv
-  - 
+  - neighbourhood-data-2001-2011.xlsx
   - Neighbourhoods.zip
   - You may will also need access to Tableau Public as this project is best displayed in Tableau. 
   
