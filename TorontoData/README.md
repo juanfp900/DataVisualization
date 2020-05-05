@@ -1,8 +1,9 @@
-# Visualize Toronto Median Income by Neighbourhood through Tableau
+# Visualize Toronto Median Income by Neighbourhood with Tableau
 
 [link to Tableau Project!] https://public.tableau.com/profile/juanp5926#!/vizhome/TorontoIncomeByNeighbourhood/Sheet8?publish=yes
 
-**Project Description**
+#**Project Description**
+
 This project was created by parsing through a csv file and an xlsx file that contains census data from 140 Toronto Neighbourhoods.
 The CSV file contains 2015 data while the xlsx file contains 2000, 2005, 2010 data. 
 
