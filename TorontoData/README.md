@@ -1,4 +1,6 @@
-#Visualize Toronto Median Income by Neighbourhood 
+# Visualize Toronto Median Income by Neighbourhood 
+
+
 
 Neighbourhoods.zip and Neighbourhoods folder are the same. Download the zip file or download each individual file. 
 All files should be together.
