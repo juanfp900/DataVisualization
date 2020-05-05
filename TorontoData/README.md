@@ -1,6 +1,6 @@
 # Visualize Median Income by Toronto Neighbourhood with Tableau
 
-[Link to Tableau Project!](https://public.tableau.com/profile/juanp5926#!/vizhome/TorontoIncomeByNeighbourhood/Sheet8?publish=yes)
+[Link to Tableau View!](https://public.tableau.com/profile/juanp5926#!/vizhome/TorontoIncomeByNeighbourhood/Sheet8?publish=yes)
 
 # Project Description
 
@@ -23,6 +23,7 @@ To run this project you will need to download the files within the TorontoData f
     [link to Tabelau Public](https://public.tableau.com/en-us/s/)
     
 When you run the file "TorontoData.py". It should create a shape file called "TorontoIncomeData.shp" that you can then use to create a view using Tableau. To do this.
+   - Open the Tableau public application that you just installed on your computer
    - Go to the blue menu on the left side of the start page. You should see "Connect" as the title to this menu.
    - Click "Spatial File" under the Connect section of the menu. 
    - Here you will be able to import the shape file that was just created
