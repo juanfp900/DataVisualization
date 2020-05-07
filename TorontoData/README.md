@@ -4,8 +4,8 @@
 
 # Project Description
 
-Show visually the difference of Household Income throughout Toronto's 140 neighbourhoods over the span of multiple years. 
-(2015, 2010, 2005, 2000)
+Show visually the difference of Household Income throughout Toronto's 140 neighbourhoods over the span of multiple years
+(2015, 2010, 2005, 2000) with Tableau.
 
 # Where did the data come from? 
 
