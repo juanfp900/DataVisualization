@@ -4,8 +4,8 @@
 
 # Project Description
 
-This project was created by parsing through a csv file and an xlsx file that contains census data from 140 Toronto Neighbourhoods.
-The csv file contains 2015 data while the xlsx file contains 2000, 2005, 2010 data. 
+Show visually the difference of Household Income throughout Toronto's 140 neighbourhoods over the span of multiple years. 
+(2015, 2010, 2005, 2000)
 
 # Where did the data come from? 
 
