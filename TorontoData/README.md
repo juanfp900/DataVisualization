@@ -7,6 +7,11 @@
 This project was created by parsing through a csv file and an xlsx file that contains census data from 140 Toronto Neighbourhoods.
 The csv file contains 2015 data while the xlsx file contains 2000, 2005, 2010 data. 
 
+# Where did the data come from? 
+
+The data came from https://open.toronto.ca/dataset/neighbourhood-profiles/
+An open source website that contains Toronto data
+
 # How To Run?
 
 Some of the libaries used within project include, Pandas, GeoPandas, Seaborn, NumPy. A full list of libraries will be included in the 
