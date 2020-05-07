@@ -10,7 +10,7 @@ Show visually the difference of Household Income throughout Toronto's 140 neighb
 # Where did the data come from? 
 
 The data came from https://open.toronto.ca/dataset/neighbourhood-profiles/
-An open source website that contains Toronto data
+An open source website that contains Toronto data.
 
 # How To Run?
 
