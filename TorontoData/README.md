@@ -1,6 +1,6 @@
 # Visualize Median Income by Toronto Neighbourhood with Tableau
 
-[Link to Tableau View!](https://public.tableau.com/profile/juanp5926#!/vizhome/TorontoIncomeByNeighbourhood/Sheet8?publish=yes)
+[Link to Tableau View](https://public.tableau.com/profile/juanp5926#!/vizhome/TorontoIncomeByNeighbourhood/Sheet8?publish=yes)
 
 # Project Description
 
