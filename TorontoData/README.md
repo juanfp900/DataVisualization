@@ -1,5 +1,9 @@
 # Visualize Median Income by Toronto Neighbourhood with Tableau
 
+![Image of Toronto Neighbourhoods](https://github.com/juanfp900/DataVisualization/blob/master/TorontoData/Images/Map.png)
+
+![Legend](https://github.com/juanfp900/DataVisualization/blob/master/TorontoData/Images/Legend.png)
+
 [Link to Tableau View](https://public.tableau.com/profile/juanp5926#!/vizhome/TorontoIncomeByNeighbourhood/Sheet8?publish=yes)
 
 # Project Description
